@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-06T05:59:44Z",
+  "license": {
+    "name": "Pixabay Content License",
+    "url": "https://pixabay.com/service/license-summary/"
+  },
+  "tracks": [
+    {
+      "id": "a-small-miracle",
+      "title": "A Small Miracle",
+      "artist": "Romarecord1973",
+      "note": {
+        "vi": "Guitar mộc, ấm áp",
+        "en": "Warm acoustic guitar"
+      },
+      "durationSeconds": 77,
+      "bytes": 1422423,
+      "sha256": "20455e1d6e1224b985b40a88bb50586e9ed0d2f2d48c84e20004e872863e67ce",
+      "url": "https://github.com/thinhfc/relax-fc-api/releases/download/tracks-v1/a-small-miracle.m4a",
+      "source": "https://pixabay.com/music/acoustic-group-a-small-miracle-132333/"
+    },
+    {
+      "id": "coniferous-forest",
+      "title": "Coniferous Forest",
+      "artist": "orangery",
+      "note": {
+        "vi": "Rừng thông yên tĩnh",
+        "en": "Quiet pine forest"
+      },
+      "durationSeconds": 128,
+      "bytes": 2331973,
+      "sha256": "ef9269c992938ea1344501b0fe334e2f36e46cef340bfafdde10a12a7fbe0236",
+      "url": "https://github.com/thinhfc/relax-fc-api/releases/download/tracks-v1/coniferous-forest.m4a",
+      "source": "https://pixabay.com/music/acoustic-group-coniferous-forest-142569/"
+    },
+    {
+      "id": "lofi-study",
+      "title": "Lofi Study",
+      "artist": "FASSounds",
+      "note": {
+        "vi": "Lofi nhẹ để học, làm việc",
+        "en": "Calm lofi for studying"
+      },
+      "durationSeconds": 147,
+      "bytes": 2319313,
+      "sha256": "f7b60c434841fce8688ebb58979dd8606154a848745a7bdf38e303f57e26c431",
+      "url": "https://github.com/thinhfc/relax-fc-api/releases/download/tracks-v1/lofi-study.m4a",
+      "source": "https://pixabay.com/music/beats-lofi-study-calm-peaceful-chill-hop-112191/"
+    },
+    {
+      "id": "please-calm-my-mind",
+      "title": "Please Calm My Mind",
+      "artist": "Onetent",
+      "note": {
+        "vi": "Ambient dịu tâm trí",
+        "en": "Ambient to calm the mind"
+      },
+      "durationSeconds": 154,
+      "bytes": 2169070,
+      "sha256": "8c2edd14cf429cf51aaf290648b6b832cc9feeaf1e0011d79f16dc247ffc9742",
+      "url": "https://github.com/thinhfc/relax-fc-api/releases/download/tracks-v1/please-calm-my-mind.m4a",
+      "source": "https://pixabay.com/music/ambient-please-calm-my-mind-149224/"
+    },
+    {
+      "id": "relaxed-vlog-night-street",
+      "title": "Night Street",
+      "artist": "Ashot Danielyan",
+      "note": {
+        "vi": "Phố đêm thư thái",
+        "en": "Relaxed night street"
+      },
+      "durationSeconds": 141,
+      "bytes": 2261886,
+      "sha256": "93c4140a985e945785c24b0160762c8f33ddc4175314e942cd747e7e56508b54",
+      "url": "https://github.com/thinhfc/relax-fc-api/releases/download/tracks-v1/relaxed-vlog-night-street.m4a",
+      "source": "https://pixabay.com/music/beats-night-street-relaxed-vlog-131746/"
+    },
+    {
+      "id": "relaxing-music-part-1",
+      "title": "Relaxing Music Part 1",
+      "artist": "RelaxingTime",
+      "note": {
+        "vi": "Thiền, 22 phút",
+        "en": "Meditation, 22 minutes"
+      },
+      "durationSeconds": 1312,
+      "bytes": 24237262,
+      "sha256": "9d04e7edd0444760560379a0879135f36ab86f7995a32d583b34fdedd7775dc8",
+      "url": "https://github.com/thinhfc/relax-fc-api/releases/download/tracks-v1/relaxing-music-part-1.m4a",
+      "source": "https://pixabay.com/music/meditationspiritual-relaxing-music-part-1-141198/"
+    },
+    {
+      "id": "relaxing-music-vol1",
+      "title": "Relaxing Music Vol.1",
+      "artist": "RelaxingTime",
+      "note": {
+        "vi": "Thiền, 23 phút",
+        "en": "Meditation, 23 minutes"
+      },
+      "durationSeconds": 1358,
+      "bytes": 20726472,
+      "sha256": "3f1bcc969b185072c6299b45c411552188221a3e09d6ad6954ac7ebd4e6efc5d",
+      "url": "https://github.com/thinhfc/relax-fc-api/releases/download/tracks-v1/relaxing-music-vol1.m4a",
+      "source": "https://pixabay.com/music/meditationspiritual-relaxing-music-vol1-124477/"
+    },
+    {
+      "id": "the-beat-of-nature",
+      "title": "The Beat of Nature",
+      "artist": "folk_acoustic",
+      "note": {
+        "vi": "Guitar và thiên nhiên",
+        "en": "Guitar and nature"
+      },
+      "durationSeconds": 173,
+      "bytes": 3083624,
+      "sha256": "0da598819dc9320b3ba357084215df26cc81b71d38c6db58207f5464e012bdca",
+      "url": "https://github.com/thinhfc/relax-fc-api/releases/download/tracks-v1/the-beat-of-nature.m4a",
+      "source": "https://pixabay.com/music/solo-guitar-the-beat-of-nature-122841/"
+    },
+    {
+      "id": "relaxing",
+      "title": "Relaxing",
+      "artist": "Music_For_Videos",
+      "note": {
+        "vi": "Piano nhẹ nhàng",
+        "en": "Gentle piano"
+      },
+      "durationSeconds": 72,
+      "bytes": 1240664,
+      "sha256": "55ac11b51ca3322d217cedf008e76b74078ce62e424ea32115167e07bdb69534",
+      "url": "https://github.com/thinhfc/relax-fc-api/releases/download/tracks-v1/relaxing.m4a",
+      "source": "https://pixabay.com/music/modern-classical-relaxing-145038/"
+    },
+    {
+      "id": "weeknds",
+      "title": "Weeknds",
+      "artist": "DayFox",
+      "note": {
+        "vi": "Chill cuối tuần",
+        "en": "Weekend chill"
+      },
+      "durationSeconds": 209,
+      "bytes": 3192016,
+      "sha256": "2fad804a312c169454494b666741fa2740348bea1c48280a81e41aa5ae1aed8b",
+      "url": "https://github.com/thinhfc/relax-fc-api/releases/download/tracks-v1/weeknds.m4a",
+      "source": "https://pixabay.com/music/beats-weeknds-122592/"
+    }
+  ]
+}
